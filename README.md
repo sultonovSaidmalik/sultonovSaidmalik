@@ -1,5 +1,5 @@
 # 💫 About Me:
- About Me:<br>About Me:<br>Saidmalik Sultonov><br>Flutter Developer | Dart Enthusiast<br><br>Passionate about mobile app development, I am currently focused on creating mobile applications in Flutter. Previously, I gained a knowledge in C++, which has provided me with valuable programming skills. With my dedication to continuous learning, I am actively expanding my expertise in Dart and Flutter.<br><br>Let's connect and explore opportunities to collaborate on exciting projects in the world of Mobile development with Flutter
+Saidmalik Sultonov><br>Flutter Developer | Dart Enthusiast<br><br>Passionate about mobile app development, I am currently focused on creating mobile applications in Flutter. Previously, I gained a knowledge in C++, which has provided me with valuable programming skills. With my dedication to continuous learning, I am actively expanding my expertise in Dart and Flutter.<br><br>Let's connect and explore opportunities to collaborate on exciting projects in the world of Mobile development with Flutter
 
 
 ## 🌐 Socials:
